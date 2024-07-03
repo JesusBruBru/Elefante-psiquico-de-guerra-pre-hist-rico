@@ -10,7 +10,9 @@ body {
     background-color: #ffffff;
     color: #333;
 }
-
+.cafe{
+    width: 50%;
+}
 header {
     background: #333;
     color: #fff;
@@ -21,6 +23,7 @@ header {
 .cabecalho{
     display: grid;
     grid-template-columns: 20% 60% 20%;
+
 }
 
 header h1 {
